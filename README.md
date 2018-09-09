@@ -1,2 +1,16 @@
 # Big-mart-sales-data-prediction
-Here you will find dataset of Big Mart sales and code of data preprocessing and model building which is used to predict the sales of test dataset.
+
+I have done data exploration, data cleaning , feature engineeering of dataset
+and then I have done model building of dataset and predicted the sales data of test dataset.
+
+In this repository you will find train dataset and test dataset of big mart sales data. You will
+also find modified dataset of both which are preprocessed(cleaned and ready to use for 
+model building) dataset.
+
+You will also find code of data preprocessing and model building.
+
+
+You will also find test data predicted sales file also which I have predicted using Linear Regression model.
+
+
+ 
